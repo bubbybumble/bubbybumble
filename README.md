@@ -9,7 +9,7 @@ I'm Aiden James, a computer science masters student at the University of North C
 - A very [useless application](https://github.com/bubbybumble/coffee).
 - Several private projects
 
-### 📝 In the past, I worked on:
+### 📝 In the past, I have worked on:
 - An [IEEE Paper](https://doi.org/10.1109/URTC56832.2022.10002246)
 - Several game jam games:
   - [Bird eater 2022](https://github.com/bubbybumble/Bird-Eater)
