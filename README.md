@@ -7,6 +7,7 @@ I'm Aiden James, a computer science masters student at the University of North C
 - piv-IIt; a game based on a past [project for Coolmath Games](https://www.coolmathgames.com/0-piv-it).
 - A [portfolio site](https://github.com/bubbybumble/setscet_site).
 - A very [useless application](https://github.com/bubbybumble/coffee).
+- A slightly more [useful application](https://github.com/bubbybumble/term-clock)
 - ...Several private projects
 
 ### 📝 In the past, I have worked on:
