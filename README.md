@@ -1,7 +1,7 @@
 ![image](https://github.com/bubbybumble/bubbybumble/assets/73562962/66ad17d7-5b50-48e5-818e-125548656467)
 
 ## Hello, world! 👋
-I'm Aiden James, a computer science masters student at the University of North Carolina at Charlotte.
+I'm Aiden James, an alumnus with a master's degree from the University of North Carolina at Charlotte.
 
 ### 🔭 I’m currently working on:
 - piv-IIt; a game based on a past [project for Coolmath Games](https://www.coolmathgames.com/0-piv-it).
