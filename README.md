@@ -2,8 +2,12 @@
 
 ## Hello, world! 👋
 I'm Aiden James, an alumnus with a master's degree from the University of North Carolina at Charlotte.
+I also sometimes use [Gitlab](https://gitlab.com/bubbybumble).
 
 ### 📝 Here are some of my projects:
+
+## Audio Software
+- [Polysynth Triangle Wave Organ programmed in Rust](https://github.com/bubbybumble/DiabolicalTriangleMachine)
 
 ## CRUD Applications:
 - [.NET Entity Framework Core and Microsoft SQL Server backend with Angular frontend](https://github.com/bubbybumble/Angular-Dotnet-Demo)
